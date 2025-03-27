@@ -3,7 +3,7 @@
 This repository contains a fully responsive black and white portfolio website. It is designed to showcase fundamental front-end development concepts and my skills.
 
 🎥 **Live Demo**
-Check out the live version of the website: [Responsive-Portfolio-Website-3]()
+Check out the live version of the website: [Responsive-Portfolio-Website-3](https://responsiveprotfoliowebsite3bygouranga.netlify.app)
 
 🌐 **Demo Video**
 Watch the video walkthrough of the project to see it in action!
@@ -58,7 +58,7 @@ This portfolio website is inspired by the concept and assets from the repository
 
 or
 
-**[Click here]() to see this project on internet.**
+**[Click here](https://responsiveprotfoliowebsite3bygouranga.netlify.app) to see this project on internet.**
 
 ## 👏 Contributing
 
