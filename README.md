@@ -8,6 +8,14 @@ Check out the live version of the website: [Responsive-Portfolio-Website-3]()
 🌐 **Demo Video**
 Watch the video walkthrough of the project to see it in action!
 
+https://github.com/user-attachments/assets/7b9849d3-8f17-49aa-8cb9-92b0a2ab730f
+
+
+
+https://github.com/user-attachments/assets/b4d5925d-67c2-484f-b335-32c07c26bba0
+
+
+
 **🛠️ Technologies:**
 
 - HTML5
