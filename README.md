@@ -49,6 +49,7 @@ This portfolio website is inspired by the concept and assets from the repository
 1.  Clone this repository:
 
     ```bash
+    git@github.com:GourangaDasSamrat/Responsive-Protfolio-Website-3.git
 
 2.  Navigate to the project directory:
     ```bash
