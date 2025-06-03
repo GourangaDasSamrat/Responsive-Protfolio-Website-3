@@ -3,13 +3,13 @@
 <div align="center">
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7b6f3239-1898-4e79-8490-6d384c1b14f0/deploy-status)](https://app.netlify.com/sites/responsiveprotfoliowebsite3bygouranga/deploys)
-![GitHub license](https://img.shields.io/github/license/GourangaDasSamrat/Responsive-Protfolio-Website-3?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/GourangaDasSamrat/Responsive-Protfolio-Website-3?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/GourangaDasSamrat/Responsive-Protfolio-Website-3?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/GourangaDasSamrat/Responsive-Protfolio-Website-3?style=for-the-badge)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fresponsiveprotfoliowebsite3bygouranga.netlify.app&style=for-the-badge)](https://responsiveprotfoliowebsite3bygouranga.netlify.app)
-![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg?style=for-the-badge)
-![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)
+[![GitHub license](https://img.shields.io/github/license/GourangaDasSamrat/Responsive-Protfolio-Website-3?style=for-the-badge&color=blue)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/GourangaDasSamrat/Responsive-Protfolio-Website-3?style=for-the-badge&color=yellow)](https://github.com/GourangaDasSamrat/Responsive-Protfolio-Website-3/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/GourangaDasSamrat/Responsive-Protfolio-Website-3?style=for-the-badge&color=orange)](https://github.com/GourangaDasSamrat/Responsive-Protfolio-Website-3/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/GourangaDasSamrat/Responsive-Protfolio-Website-3?style=for-the-badge&color=red)](https://github.com/GourangaDasSamrat/Responsive-Protfolio-Website-3/issues)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fresponsiveprotfoliowebsite3bygouranga.netlify.app&style=for-the-badge&color=brightgreen)](https://responsiveprotfoliowebsite3bygouranga.netlify.app)
+![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red.svg?style=for-the-badge)
+![Maintained](https://img.shields.io/badge/Maintained%3F-yes-success.svg?style=for-the-badge)
 
 </div>
 
@@ -78,7 +78,7 @@ Responsive-Portfolio-Website-3/
 | Category        | Technologies                                                                                                                                                                                                                                                                                                         |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Frontend Core   | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| UI Framework    | ![CSS Grid](https://img.shields.io/badge/CSS_Grid-orange?style=for-the-badge) ![Flexbox](https://img.shields.io/badge/Flexbox-purple?style=for-the-badge)                                                                                                                                                            |
+| UI Framework    | ![CSS Grid](https://img.shields.io/badge/CSS_Grid-orange?style=for-the-badge&logo=css3&logoColor=white) ![Flexbox](https://img.shields.io/badge/Flexbox-purple?style=for-the-badge&logo=css3&logoColor=white)                                                                                                        |
 | Deployment      | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)                                                                                                                                                                                                             |
 | Version Control | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)                                                                                                                   |
 
@@ -211,10 +211,10 @@ Responsive-Portfolio-Website-3/
 
 <div align="center">
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/GourangaDasSamrat/Responsive-Protfolio-Website-3?style=for-the-badge)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/GourangaDasSamrat/Responsive-Protfolio-Website-3?style=for-the-badge)
-![GitHub Language Count](https://img.shields.io/github/languages/count/GourangaDasSamrat/Responsive-Protfolio-Website-3?style=for-the-badge)
-![GitHub Top Language](https://img.shields.io/github/languages/top/GourangaDasSamrat/Responsive-Protfolio-Website-3?style=for-the-badge)
+[![GitHub Repo Size](https://img.shields.io/github/repo-size/GourangaDasSamrat/Responsive-Protfolio-Website-3?style=for-the-badge&color=blue)](https://github.com/GourangaDasSamrat/Responsive-Protfolio-Website-3)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/GourangaDasSamrat/Responsive-Protfolio-Website-3?style=for-the-badge&color=yellow)](https://github.com/GourangaDasSamrat/Responsive-Protfolio-Website-3/commits)
+[![GitHub Language Count](https://img.shields.io/github/languages/count/GourangaDasSamrat/Responsive-Protfolio-Website-3?style=for-the-badge&color=orange)](https://github.com/GourangaDasSamrat/Responsive-Protfolio-Website-3)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/GourangaDasSamrat/Responsive-Protfolio-Website-3?style=for-the-badge&color=brightgreen)](https://github.com/GourangaDasSamrat/Responsive-Protfolio-Website-3)
 
 </div>
 
