@@ -1,84 +1,136 @@
 # 🎨 Black and White Portfolio Website
 
+<div align="center">
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7b6f3239-1898-4e79-8490-6d384c1b14f0/deploy-status)](https://app.netlify.com/sites/responsiveprotfoliowebsite3bygouranga/deploys)
 ![GitHub license](https://img.shields.io/github/license/GourangaDasSamrat/Responsive-Protfolio-Website-3)
 ![GitHub stars](https://img.shields.io/github/stars/GourangaDasSamrat/Responsive-Protfolio-Website-3?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/GourangaDasSamrat/Responsive-Protfolio-Website-3?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/GourangaDasSamrat/Responsive-Protfolio-Website-3)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fresponsiveprotfoliowebsite3bygouranga.netlify.app)](https://responsiveprotfoliowebsite3bygouranga.netlify.app)
+![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)
+![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 
-A stunning, fully responsive black and white portfolio website that showcases professional excellence through minimalist design and smooth user experience.
+<a href="https://responsiveprotfoliowebsite3bygouranga.netlify.app">
+  <img src="assets/project-1.png" alt="Portfolio Preview" width="600px" />
+</a>
 
-## 🌟 Features
+<p align="center">
+  <b>A stunning, fully responsive black and white portfolio website that showcases professional excellence through minimalist design and smooth user experience.</b>
+</p>
 
-- 📱 Fully Responsive Design
-- 🌓 Dark/Light Mode Toggle
-- 🎯 Smooth Scroll Animations
-- 📊 Interactive Project Showcase
-- 📝 Dynamic Contact Form
-- ⚡ Optimized Performance
-- 🎨 Modern UI/UX
+[Demo](https://responsiveprotfoliowebsite3bygouranga.netlify.app) • [Report Bug](https://github.com/GourangaDasSamrat/Responsive-Protfolio-Website-3/issues) • [Request Feature](https://github.com/GourangaDasSamrat/Responsive-Protfolio-Website-3/issues)
 
-## 🔥 Demo
+</div>
 
-[Live Website](https://responsiveprotfoliowebsite3bygouranga.netlify.app)
+---
 
-<!-- Demo video will be added here -->
+## ✨ Key Features
 
-## 🛠️ Tech Stack
+<div align="center">
 
-| Category        | Technologies                                                                                                                                                                                                                                                                                                   |
-| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Frontend        | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| Design          | ![Responsive Design](https://img.shields.io/badge/Responsive-Design-blue?style=flat-square) ![CSS Grid](https://img.shields.io/badge/CSS-Grid-orange?style=flat-square) ![Flexbox](https://img.shields.io/badge/CSS-Flexbox-purple?style=flat-square)                                                          |
-| Deployment      | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)                                                                                                                                                                                                         |
-| Version Control | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)                                                                                                                 |
+| Feature              | Description                         |
+| -------------------- | ----------------------------------- |
+| 📱 Responsive Design | Perfectly adapts to any screen size |
+| 🌓 Dark/Light Mode   | Elegant theme switching capability  |
+| 🎯 Smooth Scroll     | Buttery-smooth scrolling animations |
+| 📊 Project Showcase  | Interactive portfolio display       |
+| 📝 Contact Form      | Dynamic form with validation        |
+| ⚡ Performance       | Optimized for speed and efficiency  |
+| 🎨 Modern UI/UX      | Clean and professional design       |
 
-## 📊 Performance Metrics
+</div>
 
-### Lighthouse Scores
+## 🚀 Live Demo
 
-| Metric         | Score   |
-| -------------- | ------- |
-| Performance    | 98/100  |
-| Accessibility  | 100/100 |
-| Best Practices | 95/100  |
-| SEO            | 100/100 |
+<div align="center">
 
-### PageSpeed Insights
+### [Visit Live Website](https://responsiveprotfoliowebsite3bygouranga.netlify.app)
 
-- 📱 Mobile: 90/100
-- 💻 Desktop: 95/100
-- ⚡ First Contentful Paint: 0.8s
-- 🚀 Time to Interactive: 1.2s
+<!-- Demo video section will be added here -->
+
+</div>
+
+## 🛠️ Built With
+
+<div align="center">
+
+| Category        | Technologies                                                                                                                                                                                                                                                                                                         |
+| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Frontend Core   | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| UI Framework    | ![CSS Grid](https://img.shields.io/badge/CSS_Grid-orange?style=for-the-badge) ![Flexbox](https://img.shields.io/badge/Flexbox-purple?style=for-the-badge)                                                                                                                                                            |
+| Deployment      | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)                                                                                                                                                                                                             |
+| Version Control | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)                                                                                                                   |
+
+</div>
+
+## 📊 Performance
+
+<div align="center">
+
+### 🎯 Lighthouse Scores
+
+| Metric         | Score   | Status |
+| -------------- | ------- | ------ |
+| Performance    | 98/100  | ✅     |
+| Accessibility  | 100/100 | ✅     |
+| Best Practices | 95/100  | ✅     |
+| SEO            | 100/100 | ✅     |
+
+### ⚡ PageSpeed Insights
+
+| Platform   | Score  | Load Time |
+| ---------- | ------ | --------- |
+| 📱 Mobile  | 90/100 | 0.8s FCP  |
+| 💻 Desktop | 95/100 | 1.2s TTI  |
+
+</div>
 
 ## 📁 Project Structure
 
+<details>
+<summary>Click to expand</summary>
+
 ```bash
 Responsive-Portfolio-Website-3/
-├── assets/                  # Static assets directory
-│   ├── about-pic.png       # About section image
-│   ├── arrow.png           # Navigation arrow
-│   ├── checkmark.png       # List checkmark
-│   ├── education.png       # Education section icon
-│   ├── email.png          # Contact section icon
-│   ├── experience.png     # Experience section icon
-│   ├── github.png         # Social media icon
-│   ├── linkedin.png       # Social media icon
-│   ├── profile-pic-2.png  # Alternative profile picture
-│   ├── profile-pic.png    # Main profile picture
-│   ├── project-1.png      # Project thumbnail
-│   ├── project-2.png      # Project thumbnail
-│   ├── project-3.png      # Project thumbnail
-│   └── resume-example.pdf # Resume file
-├── index.html             # Main HTML file
-├── style.css             # Main stylesheet
-├── mediaqueries.css      # Responsive design styles
-├── script.js            # JavaScript functionality
-├── LICENSE              # MIT license file
-└── README.md           # Project documentation
+├── 📂 assets/                 # Static assets directory
+│   ├── 🖼️ about-pic.png      # About section image
+│   ├── ⬆️ arrow.png          # Navigation arrow
+│   ├── ✓ checkmark.png      # List checkmark
+│   ├── 🎓 education.png     # Education section icon
+│   ├── ✉️ email.png         # Contact section icon
+│   ├── 💼 experience.png    # Experience section icon
+│   ├── 🐙 github.png        # Social media icon
+│   ├── 💼 linkedin.png      # Social media icon
+│   ├── 👤 profile-pic-2.png # Alternative profile picture
+│   ├── 👤 profile-pic.png   # Main profile picture
+│   ├── 🖼️ project-1.png     # Project thumbnail
+│   ├── 🖼️ project-2.png     # Project thumbnail
+│   ├── 🖼️ project-3.png     # Project thumbnail
+│   └── 📄 resume-example.pdf # Resume file
+├── 📝 index.html            # Main HTML file
+├── 📜 LICENSE              # MIT license file
+├── 📱 mediaqueries.css     # Responsive design styles
+├── 📖 README.md           # Project documentation
+├── 🔧 script.js           # JavaScript functionality
+└── 🎨 style.css          # Main stylesheet
 ```
 
-## 🚀 Getting Started
+</details>
+
+## 🚦 Getting Started
+
+<div align="center">
+
+### Prerequisites
+
+- Modern web browser
+- Code editor (VS Code recommended)
+- Basic understanding of HTML/CSS/JS
+
+</div>
+
+### Installation
 
 1. **Clone the repository**
 
@@ -92,43 +144,106 @@ Responsive-Portfolio-Website-3/
    cd Responsive-Portfolio-Website-3
    ```
 
-3. **Open in browser**
+3. **Launch the project**
+
    ```bash
    # Using VS Code's Live Server
    code . && live-server
+
    # OR simply open index.html in your browser
    ```
 
-## 👨‍💻 Author
+## 👤 Author & Contact
 
-### Gouranga Das Samrat
-
-<p align="left">
-  <a href="https://linkedin.com/in/gouranga-das-samrat">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/GourangaDasSamrat">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://twitter.com/gouranga_khulna">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
+<p align="center">
+  <img src="https://i.postimg.cc/Bnwyx7kh/485760954-644674311798231-1067913994704069438-n.jpg" alt="Gouranga Das Samrat" width="110" style="border-radius:50%;margin-bottom:10px;box-shadow:0 2px 8px #ccc;"/>
 </p>
+
+<p align="center">
+  <b>Gouranga Das Samrat</b><br>
+  <i>Frontend Developer | JavaScript & React Expert | Open Source Enthusiast</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/GourangaDasSamrat" title="GitHub"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/gouranga-das-samrat" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://gourangadas.netlify.app/" title="Portfolio"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:gouranga.das.khulna@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://leetcode.com/u/gourangadassamrat/" title="LeetCode"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+  <a href="https://codepen.io/gouranga-das-samrat" title="CodePen"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"></a>
+  <a href="https://www.reddit.com/user/Capable-Plantain8709/" title="Reddit"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
+  <a href="https://www.behance.net/gourangsamrat" title="Behance"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
+  <a href="https://dribbble.com/gourangadassamrat" title="Dribbble"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"></a>
+  <a href="https://stackoverflow.com/users/27733996/gouranga-das-samrat?tab=profile" title="Stack Overflow"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"></a>
+  <a href="https://www.quora.com/profile/Gouranga-Das-Samrat" title="Quora"><img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white" alt="Quora"></a>
+  <a href="https://www.twitch.tv/gourangadassamrat" title="Twitch"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
+  <a href="https://www.youtube.com/@GourangaDasSamrat" title="YouTube"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://medium.com/@gouranga.das.khulna" title="Medium"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://gourangadassamrat.blogspot.com/" title="Blogger"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger"></a>
+  <a href="https://discord.gg/jnZStfKW7v" title="Discord"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://x.com/gouranga_khulna" title="X"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.facebook.com/gourangadassamrat" title="Facebook"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://instagram.com/gouranga.das.khulna" title="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.tiktok.com/@gourangadassamrat" title="TikTok"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
+  <a href="https://www.threads.net/@gouranga.das.khulna" title="Threads"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"></a>
+  <a href="https://pinterest.com/gourangadaskhulna" title="Pinterest"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"></a>
+</p>
+
+<p align="center">
+  <i>Let's connect! I'm always open to collaboration, frontend projects, or just a friendly chat about JavaScript and React.</i>
+</p>
+
+## 📈 Project Stats
+
+<div align="center">
+
+![GitHub Repo Size](https://img.shields.io/github/repo-size/GourangaDasSamrat/Responsive-Protfolio-Website-3?style=for-the-badge)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/GourangaDasSamrat/Responsive-Protfolio-Website-3?style=for-the-badge)
+![GitHub Language Count](https://img.shields.io/github/languages/count/GourangaDasSamrat/Responsive-Protfolio-Website-3?style=for-the-badge)
+![GitHub Top Language](https://img.shields.io/github/languages/top/GourangaDasSamrat/Responsive-Protfolio-Website-3?style=for-the-badge)
+
+</div>
 
 ## 📄 License
 
+<div align="center">
+
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+</div>
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/GourangaDasSamrat/Responsive-Protfolio-Website-3/issues).
+<div align="center">
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/GourangaDasSamrat/Responsive-Protfolio-Website-3/pulls)
+
+</div>
 
 1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
 ## ⭐ Show Your Support
 
-Give a ⭐️ if you like this project!
+<div align="center">
+
+If you find this project useful, please give it a ⭐️!
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/GourangaDasSamrat/Responsive-Protfolio-Website-3)
+
+</div>
+
+---
+
+<div align="center">
+
+Made with ❤️ by [Gouranga Das Samrat](https://gourangadas.netlify.app/)
+
+</div>
