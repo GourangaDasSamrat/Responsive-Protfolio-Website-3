@@ -1,4 +1,4 @@
-# 🎨 Black and White Portfolio Website
+# 🎨 Black & White Portfolio Website
 
 <div align="center">
 
@@ -11,82 +11,33 @@
 ![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg?style=for-the-badge)
 ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)
 
-<h3>
-  A stunning, fully responsive black and white portfolio website that showcases professional excellence through minimalist design and smooth user experience.
+</div>
+
+---
+
+<h3 align="center">
+  ✨ A stunning, fully responsive black and white portfolio website that showcases professional excellence through minimalist design and smooth user experience.
 </h3>
 
-<p>
+<p align="center">
   <a href="https://responsiveprotfoliowebsite3bygouranga.netlify.app"><strong>📺 View Demo</strong></a> •
   <a href="https://github.com/GourangaDasSamrat/Responsive-Protfolio-Website-3/issues"><strong>🐛 Report Bug</strong></a> •
   <a href="https://github.com/GourangaDasSamrat/Responsive-Protfolio-Website-3/issues"><strong>✨ Request Feature</strong></a>
 </p>
 
+---
+
+## 🚀 Demo
+
+<div align="center">
+
+<!-- Demo video will be added here soon! -->
+
 </div>
 
 ---
 
-## ✨ Key Features
-
-<div align="center">
-
-| Feature              | Description                         |
-| -------------------- | ----------------------------------- |
-| 📱 Responsive Design | Perfectly adapts to any screen size |
-| 🌓 Dark/Light Mode   | Elegant theme switching capability  |
-| 🎯 Smooth Scroll     | Buttery-smooth scrolling animations |
-| 📊 Project Showcase  | Interactive portfolio display       |
-| 📝 Contact Form      | Dynamic form with validation        |
-| ⚡ Performance       | Optimized for speed and efficiency  |
-| 🎨 Modern UI/UX      | Clean and professional design       |
-
-</div>
-
-## 🚀 Live Demo
-
-<div align="center">
-
-### [Visit Live Website](https://responsiveprotfoliowebsite3bygouranga.netlify.app)
-
-<!-- Demo video section will be added here -->
-
-</div>
-
-## 🛠️ Built With
-
-<div align="center">
-
-| Category        | Technologies                                                                                                                                                                                                                                                                                                         |
-| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Frontend Core   | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| UI Framework    | ![CSS Grid](https://img.shields.io/badge/CSS_Grid-orange?style=for-the-badge) ![Flexbox](https://img.shields.io/badge/Flexbox-purple?style=for-the-badge)                                                                                                                                                            |
-| Deployment      | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)                                                                                                                                                                                                             |
-| Version Control | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)                                                                                                                   |
-
-</div>
-
-## 📊 Performance
-
-<div align="center">
-
-### 🎯 Lighthouse Scores
-
-| Metric         | Score   | Status |
-| -------------- | ------- | ------ |
-| Performance    | 98/100  | ✅     |
-| Accessibility  | 100/100 | ✅     |
-| Best Practices | 95/100  | ✅     |
-| SEO            | 100/100 | ✅     |
-
-### ⚡ PageSpeed Insights
-
-| Platform   | Score  | Load Time |
-| ---------- | ------ | --------- |
-| 📱 Mobile  | 90/100 | 0.8s FCP  |
-| 💻 Desktop | 95/100 | 1.2s TTI  |
-
-</div>
-
-## 📁 Project Structure
+## 🗂️ Project Structure
 
 <details>
 <summary>Click to expand</summary>
@@ -117,6 +68,65 @@ Responsive-Portfolio-Website-3/
 ```
 
 </details>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+| Category        | Technologies                                                                                                                                                                                                                                                                                                         |
+| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Frontend Core   | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| UI Framework    | ![CSS Grid](https://img.shields.io/badge/CSS_Grid-orange?style=for-the-badge) ![Flexbox](https://img.shields.io/badge/Flexbox-purple?style=for-the-badge)                                                                                                                                                            |
+| Deployment      | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)                                                                                                                                                                                                             |
+| Version Control | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)                                                                                                                   |
+
+</div>
+
+---
+
+## ✨ Key Features
+
+<div align="center">
+
+| Feature              | Description                         |
+| -------------------- | ----------------------------------- |
+| 📱 Responsive Design | Perfectly adapts to any screen size |
+| 🌓 Dark/Light Mode   | Elegant theme switching capability  |
+| 🎯 Smooth Scroll     | Buttery-smooth scrolling animations |
+| 📊 Project Showcase  | Interactive portfolio display       |
+| 📝 Contact Form      | Dynamic form with validation        |
+| ⚡ Performance       | Optimized for speed and efficiency  |
+| 🎨 Modern UI/UX      | Clean and professional design       |
+
+</div>
+
+---
+
+## 📊 Performance
+
+<div align="center">
+
+### 🎯 Lighthouse Scores
+
+| Metric         | Score   | Status |
+| -------------- | ------- | ------ |
+| Performance    | 98/100  | ✅     |
+| Accessibility  | 100/100 | ✅     |
+| Best Practices | 95/100  | ✅     |
+| SEO            | 100/100 | ✅     |
+
+### ⚡ PageSpeed Insights
+
+| Platform   | Score  | Load Time |
+| ---------- | ------ | --------- |
+| 📱 Mobile  | 90/100 | 0.8s FCP  |
+| 💻 Desktop | 95/100 | 1.2s TTI  |
+
+</div>
+
+---
 
 ## 🚦 Getting Started
 
@@ -152,6 +162,8 @@ Responsive-Portfolio-Website-3/
 
    # OR simply open index.html in your browser
    ```
+
+---
 
 ## 👤 Author & Contact
 
@@ -193,6 +205,8 @@ Responsive-Portfolio-Website-3/
   <i>Let's connect! I'm always open to collaboration, frontend projects, or just a friendly chat about JavaScript and React.</i>
 </p>
 
+---
+
 ## 📈 Project Stats
 
 <div align="center">
@@ -204,6 +218,8 @@ Responsive-Portfolio-Website-3/
 
 </div>
 
+---
+
 ## 📄 License
 
 <div align="center">
@@ -213,6 +229,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 </div>
+
+---
 
 ## 🤝 Contributing
 
@@ -229,6 +247,8 @@ Contributions are what make the open source community such an amazing place to l
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+---
 
 ## ⭐ Show Your Support
 
