@@ -3,23 +3,23 @@
 <div align="center">
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7b6f3239-1898-4e79-8490-6d384c1b14f0/deploy-status)](https://app.netlify.com/sites/responsiveprotfoliowebsite3bygouranga/deploys)
-![GitHub license](https://img.shields.io/github/license/GourangaDasSamrat/Responsive-Protfolio-Website-3)
-![GitHub stars](https://img.shields.io/github/stars/GourangaDasSamrat/Responsive-Protfolio-Website-3?style=social)
-![GitHub forks](https://img.shields.io/github/forks/GourangaDasSamrat/Responsive-Protfolio-Website-3?style=social)
-![GitHub issues](https://img.shields.io/github/issues/GourangaDasSamrat/Responsive-Protfolio-Website-3)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fresponsiveprotfoliowebsite3bygouranga.netlify.app)](https://responsiveprotfoliowebsite3bygouranga.netlify.app)
-![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)
-![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+![GitHub license](https://img.shields.io/github/license/GourangaDasSamrat/Responsive-Protfolio-Website-3?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/GourangaDasSamrat/Responsive-Protfolio-Website-3?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/GourangaDasSamrat/Responsive-Protfolio-Website-3?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/GourangaDasSamrat/Responsive-Protfolio-Website-3?style=for-the-badge)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fresponsiveprotfoliowebsite3bygouranga.netlify.app&style=for-the-badge)](https://responsiveprotfoliowebsite3bygouranga.netlify.app)
+![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg?style=for-the-badge)
+![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)
 
-<a href="https://responsiveprotfoliowebsite3bygouranga.netlify.app">
-  <img src="assets/project-1.png" alt="Portfolio Preview" width="600px" />
-</a>
+<h3>
+  A stunning, fully responsive black and white portfolio website that showcases professional excellence through minimalist design and smooth user experience.
+</h3>
 
-<p align="center">
-  <b>A stunning, fully responsive black and white portfolio website that showcases professional excellence through minimalist design and smooth user experience.</b>
+<p>
+  <a href="https://responsiveprotfoliowebsite3bygouranga.netlify.app"><strong>📺 View Demo</strong></a> •
+  <a href="https://github.com/GourangaDasSamrat/Responsive-Protfolio-Website-3/issues"><strong>🐛 Report Bug</strong></a> •
+  <a href="https://github.com/GourangaDasSamrat/Responsive-Protfolio-Website-3/issues"><strong>✨ Request Feature</strong></a>
 </p>
-
-[Demo](https://responsiveprotfoliowebsite3bygouranga.netlify.app) • [Report Bug](https://github.com/GourangaDasSamrat/Responsive-Protfolio-Website-3/issues) • [Request Feature](https://github.com/GourangaDasSamrat/Responsive-Protfolio-Website-3/issues)
 
 </div>
 
