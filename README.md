@@ -29,7 +29,17 @@
 
 ## 🚀 Demo
 
+
 <div align="center">
+
+
+https://github.com/user-attachments/assets/33ba6258-d124-4d68-ba97-77df4481b127
+
+
+
+https://github.com/user-attachments/assets/d0bb8174-0e4f-4cca-a148-df9fa7033a0a
+
+
 
 <!-- Demo video will be added here soon! -->
 
